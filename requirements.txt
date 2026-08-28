@@ -1,0 +1,4 @@
+numpy
+pygame
+numba
+# pyglet   # only needed for early-experiments/d.py
