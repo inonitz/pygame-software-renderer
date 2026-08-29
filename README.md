@@ -11,6 +11,8 @@
   </p>
 </div>
 
+**Status: Running & working.** Python + pygame, no build step (verified on Python 3.12 / pygame 2.6).
+
 > **Archive notice:** This is a high-school-era learning archive, published as-is and marked read-only.
 > The rewrite generations are preserved deliberately - the point of this repo *is* the progression.
 > A few surgical fixes were applied at publication time (2026) so the flagship entry points run on
